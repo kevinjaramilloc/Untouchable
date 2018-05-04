@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 99b1dc490c559f94eb9636b7da7a5d55
+timeCreated: 1524847497
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bionic Type Shadow
+  fontNames:
+  - Bionic Type Shadow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

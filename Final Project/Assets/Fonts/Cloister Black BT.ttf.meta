@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 919ff73e2d04a444cbfd5482e1f2e8fd
+timeCreated: 1524847497
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CloisterBlack BT
+  fontNames:
+  - CloisterBlack BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

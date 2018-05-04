@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0c3e119e129ce794cbe580c309dab433
+timeCreated: 1511195085
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Xerox Serif Narrow
+  fontNames:
+  - Xerox Serif Narrow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

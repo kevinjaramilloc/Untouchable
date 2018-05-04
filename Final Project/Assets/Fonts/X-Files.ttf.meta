@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c33a12c553438bd40b1cfd765654f479
+timeCreated: 1511195086
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: X-Files
+  fontNames:
+  - X-Files
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

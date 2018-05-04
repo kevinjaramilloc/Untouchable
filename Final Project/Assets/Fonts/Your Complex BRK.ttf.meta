@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5dd9bb10b1fe1b248b1af725bb0d586e
+timeCreated: 1511195086
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Your Complex BRK
+  fontNames:
+  - Your Complex BRK
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

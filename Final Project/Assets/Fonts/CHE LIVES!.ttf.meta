@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6b80fb8bbc128a54ba7663c27ca7b05d
+timeCreated: 1524847495
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CHE LIVES!
+  fontNames:
+  - CHE LIVES!
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

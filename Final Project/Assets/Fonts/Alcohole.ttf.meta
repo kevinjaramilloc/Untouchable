@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3e1d45507d4b01544909d0e21ee88121
+timeCreated: 1511196214
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alcohole
+  fontNames:
+  - Alcohole
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

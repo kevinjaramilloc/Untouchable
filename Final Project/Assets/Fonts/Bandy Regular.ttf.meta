@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5fa1d57bf2b0f7f4787d939d0c811605
+timeCreated: 1511196214
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bandy
+  fontNames:
+  - Bandy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

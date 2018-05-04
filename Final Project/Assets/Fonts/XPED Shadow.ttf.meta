@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f5bb11b6e4fd96e45895e69f65ea2441
+timeCreated: 1511195086
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: XPED Shadow
+  fontNames:
+  - XPED Shadow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 394e658eea8ae1346aab2f79c839aa1b
+timeCreated: 1511196214
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alpha Romanie G98
+  fontNames:
+  - Alpha Romanie G98
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

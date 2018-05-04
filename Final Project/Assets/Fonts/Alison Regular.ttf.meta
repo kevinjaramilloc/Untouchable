@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4a10d0df88fb3c04bad6ac34838b6cbf
+timeCreated: 1511196214
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alison
+  fontNames:
+  - Alison
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

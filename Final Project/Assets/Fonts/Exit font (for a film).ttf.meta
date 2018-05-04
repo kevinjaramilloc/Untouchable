@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ac6039e8c151ab640b0cfc92a0be4966
+timeCreated: 1524847498
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Exit font (for a film)
+  fontNames:
+  - Exit font (for a film)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

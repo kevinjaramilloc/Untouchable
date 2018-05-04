@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 30c5f8e37f1ad8c4aa7aaf80d226e3b4
+timeCreated: 1524847492
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bionic Kid Slanted 3d
+  fontNames:
+  - Bionic Kid Slanted 3d
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

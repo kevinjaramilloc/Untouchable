@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1f0f04cf5af0942479e37a7b50736a11
+timeCreated: 1511195085
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Yold Anglican
+  fontNames:
+  - Yold Anglican
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

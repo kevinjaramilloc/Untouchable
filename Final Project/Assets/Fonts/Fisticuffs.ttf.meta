@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7d0a4a0ec4bf3c949b169c6ea9763993
+timeCreated: 1524847495
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fisticuffs
+  fontNames:
+  - Fisticuffs
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

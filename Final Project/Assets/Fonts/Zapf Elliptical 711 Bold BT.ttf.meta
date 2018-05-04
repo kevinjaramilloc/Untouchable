@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2cce90e230fc7cc448903b0552f4907c
+timeCreated: 1511195085
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ZapfEllipt BT
+  fontNames:
+  - ZapfEllipt BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

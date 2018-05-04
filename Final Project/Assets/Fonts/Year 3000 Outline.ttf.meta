@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 36e7dcdbb2ecfaa43a7970057e45282c
+timeCreated: 1511195085
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Year 3000 Outline
+  fontNames:
+  - Year 3000 Outline
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
