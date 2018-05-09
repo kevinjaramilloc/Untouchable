@@ -17,10 +17,6 @@ public class UserInterface : MonoBehaviour
 	public GameObject credits;
 	public GameObject instructions;
 	
-	private void Update () 
-	{
-		
-	}
 
 	public void MainUI()
 	{
@@ -29,6 +25,9 @@ public class UserInterface : MonoBehaviour
 		helpButton.SetActive(true);
 		playButton.SetActive(true);
 		creditsButton.SetActive(true);
+		credits.SetActive(false);
+		instructions.SetActive(false);
+		backButton.SetActive(false);
 	}
 
 	public void PlayMode()
@@ -39,6 +38,8 @@ public class UserInterface : MonoBehaviour
 		helpButton.SetActive(false);
 		playButton.SetActive(false);
 		creditsButton.SetActive(false);
+		credits.SetActive(false);
+		instructions.SetActive(false);
 	}
 
 	public void Instructions()
@@ -50,6 +51,7 @@ public class UserInterface : MonoBehaviour
 		helpButton.SetActive(false);
 		playButton.SetActive(false);
 		creditsButton.SetActive(false);
+		credits.SetActive(false);
 	}
 
 	public void Credits()
@@ -61,5 +63,6 @@ public class UserInterface : MonoBehaviour
 		helpButton.SetActive(false);
 		playButton.SetActive(false);
 		creditsButton.SetActive(false);
+		instructions.SetActive(false);
 	}
 }
